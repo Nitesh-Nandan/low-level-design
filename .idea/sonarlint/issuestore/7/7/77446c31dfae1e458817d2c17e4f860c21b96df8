@@ -1,0 +1,11 @@
+
+`	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(ØªÕùÿÿÿÿ
+`	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Õ— Êşÿÿÿÿ
+q
+java:S1104"[Make appointmentTime a static final constant or non-public and provide accessors if needed.(Ñ¬ìá
+j
+java:S1104"UMake patientID a static final constant or non-public and provide accessors if needed.(„‡éq
+q
+java:S1104"[Make appointmentTime a static final constant or non-public and provide accessors if needed.(Ñ¬ìá
+l
+java:S1104"VMake providerID a static final constant or non-public and provide accessors if needed.(òŠî

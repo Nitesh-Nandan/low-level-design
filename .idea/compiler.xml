@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PatientAppointement" />
+        <module name="pub-sub-system" />
+        <module name="splitwise" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PatientAppointement" target="8" />
+      <module name="pub-sub-system" target="1.5" />
+      <module name="splitwise" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

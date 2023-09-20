@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PatientAppointement/PatientAppointement.iml" filepath="$PROJECT_DIR$/PatientAppointement/PatientAppointement.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/low-level-design.iml" filepath="$PROJECT_DIR$/.idea/low-level-design.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pub-sub-system/pub-sub-system.iml" filepath="$PROJECT_DIR$/pub-sub-system/pub-sub-system.iml" />
-      <module fileurl="file://$PROJECT_DIR$/splitwise/splitwise.iml" filepath="$PROJECT_DIR$/splitwise/splitwise.iml" />
     </modules>
   </component>
 </project>

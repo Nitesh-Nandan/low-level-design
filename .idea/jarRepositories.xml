@@ -3,6 +3,26 @@
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
       <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="localMeesho" />
+      <option name="name" value="MvnTest" />
+      <option name="url" value="http://bac-p-jfrog.meeshoint.in/artifactory/lib-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="localMeesho" />
+      <option name="name" value="MvnTest" />
+      <option name="url" value="https://jfrog-prd.meeshogcp.in/artifactory/lib-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="MvnTest" />
+      <option name="url" value="https://jfrog-prd.meeshogcp.in/artifactory/lib-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
     </remote-repository>
@@ -13,8 +33,23 @@
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
+      <option name="name" value="MavenCentral" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="MvnTest" />
+      <option name="url" value="http://bac-p-jfrog.meeshoint.in/artifactory/lib-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
       <option name="name" value="MvnTest" />
       <option name="url" value="http://ja-dev.internal.meeshotest.in/artifactory/MvnTest" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="confluent" />
+      <option name="name" value="confluent" />
+      <option name="url" value="https://packages.confluent.io/maven/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="snapshots" />

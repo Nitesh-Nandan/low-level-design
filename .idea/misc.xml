@@ -8,6 +8,11 @@
         <option value="$PROJECT_DIR$/splitwise/pom.xml" />
         <option value="$PROJECT_DIR$/PatientAppointement/pom.xml" />
         <option value="$PROJECT_DIR$/ParkingLot/pom.xml" />
+        <option value="$PROJECT_DIR$/bookmyshow/pom.xml" />
+        <option value="$PROJECT_DIR$/CarRentalSystem/pom.xml" />
+        <option value="$PROJECT_DIR$/ObserverDesignPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/concurrency/pom.xml" />
+        <option value="$PROJECT_DIR$/lift/pom.xml" />
       </list>
     </option>
   </component>

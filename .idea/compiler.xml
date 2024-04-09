@@ -6,10 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="CarRentalSystem" />
         <module name="ParkingLot" />
         <module name="PatientAppointement" />
         <module name="pub-sub-system" />
         <module name="splitwise" />
+        <module name="bookmyshow" />
+        <module name="lift" />
+        <module name="ObserverDesignPattern" />
+        <module name="concurrency" />
       </profile>
     </annotationProcessing>
   </component>
